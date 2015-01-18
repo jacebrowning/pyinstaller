@@ -1,0 +1,57 @@
+19 INFO: wrote /Users/Browning/Programs/PyInstaller/sandbox/helloworld_tk.spec
+19 WARNING: You are running 64-bit Python: created binaries will only work on Mac OS X 10.6+.
+If you need 10.4-10.5 compatibility, run Python as a 32-bit binary with this command:
+
+    VERSIONER_PYTHON_PREFER_32_BIT=yes arch -i386 /opt/boxen/homebrew/bin/python3
+
+4027 INFO: UPX is available.
+4028 INFO: Removing temporary files and cleaning cache in /Users/Browning/Library/Application Support/pyinstaller
+4033 INFO: Extending PYTHONPATH with /Users/Browning/Programs/PyInstaller/sandbox
+4033 INFO: checking Analysis
+4033 INFO: building Analysis because out00-Analysis.toc non existent
+4033 INFO: Creating base_library.zip for Python 3
+4653 INFO: running Analysis out00-Analysis.toc
+4659 INFO: Analyzing helloworld_tk.py
+5203 INFO: Analyzing /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller-3.0dev_b2eed53_mod-py3.4.egg/PyInstaller/loader/_pyi_bootstrap.py
+5219 INFO: Analyzing /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller-3.0dev_b2eed53_mod-py3.4.egg/PyInstaller/loader/pyi_importers.py
+5221 INFO: Analyzing /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller-3.0dev_b2eed53_mod-py3.4.egg/PyInstaller/loader/pyi_archive.py
+5222 INFO: Analyzing /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller-3.0dev_b2eed53_mod-py3.4.egg/PyInstaller/loader/pyi_carchive.py
+5224 INFO: Analyzing /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller-3.0dev_b2eed53_mod-py3.4.egg/PyInstaller/loader/pyi_os_path.py
+5225 INFO: Hidden import 'codecs' has been found otherwise
+5225 INFO: Hidden import 'encodings' has been found otherwise
+5225 INFO: Looking for import hooks ...
+5227 INFO: Processing hook   hook-encodings.py
+5338 INFO: Processing hook   hook-pydoc.py
+5340 INFO: Processing hook   hook-distutils.py
+5341 INFO: Processing hook   hook-xml.py
+5387 INFO: Processing hook   hook-xml.sax.py
+5388 INFO: Processing hook   hook-site.py
+5389 INFO: Processing hook   hook-sysconfig.py
+5390 INFO: Processing hook   hook-_tkinter.py
+5393 INFO: checking Tree
+5393 INFO: building because out00-Tree.toc missing or bad
+5393 INFO: building Tree out00-Tree.toc
+5424 INFO: checking Tree
+5424 INFO: building because out01-Tree.toc missing or bad
+5424 INFO: building Tree out01-Tree.toc
+5435 INFO: Analyzing run-time hooks ...
+5442 INFO: Looking for dynamic libraries
+5473 INFO: Looking for eggs - TODO
+5474 INFO: Using Python library /opt/boxen/homebrew/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/Python
+5491 INFO: Warnings written to /Users/Browning/Programs/PyInstaller/sandbox/build/helloworld_tk/warnhelloworld_tk.txt
+5491 INFO: checking PYZ
+5491 INFO: rebuilding out00-PYZ.toc because out00-PYZ.pyz is missing
+5491 INFO: building PYZ (ZlibArchive) out00-PYZ.toc
+5763 INFO: checking PKG
+5763 INFO: rebuilding out00-PKG.toc because out00-PKG.pkg is missing
+5763 INFO: building PKG (CArchive) out00-PKG.pkg
+5768 INFO: checking EXE
+5768 INFO: rebuilding out00-EXE.toc because helloworld_tk missing
+5768 INFO: building EXE from out00-EXE.toc
+5769 INFO: Appending archive to EXE /Users/Browning/Programs/PyInstaller/sandbox/build/helloworld_tk/helloworld_tk
+5771 INFO: checking COLLECT
+5771 INFO: Removing dir /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld_tk
+5774 INFO: building COLLECT out00-COLLECT.toc
+5916 INFO: checking BUNDLE
+5916 INFO: Removing dir /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld_tk.app
+5919 INFO: building BUNDLE out00-BUNDLE.toc

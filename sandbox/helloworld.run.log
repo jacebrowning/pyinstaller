@@ -1,0 +1,40 @@
+Hello, world!
+LOADER: executable is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld
+LOADER: homepath is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: _MEIPASS2 is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: archivename is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld
+LOADER: Already in the child - running user's code.
+LOADER: Python library: /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/Python
+LOADER: Loaded functions from Python library.
+LOADER: Manipulating evironment (PYTHONPATH, PYTHONHOME)
+LOADER: PYTHONPATH is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/base_library.zip:/Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: PYTHONHOME is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: Setting runtime options
+LOADER: Initializing python
+LOADER: Setting sys.argv
+LOADER: importing modules from CArchive
+LOADER: extracted struct
+LOADER: callfunction returned...
+LOADER: extracted pyi_os_path
+LOADER: callfunction returned...
+LOADER: extracted pyi_archive
+LOADER: callfunction returned...
+LOADER: extracted pyi_importers
+LOADER: callfunction returned...
+LOADER: Installing import hooks
+LOADER: out00-PYZ.pyz
+LOADER: import sys; sys.path.append(r"/Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld?34240")
+
+LOADER: Running scripts
+LOADER: OK.
+LOADER: Cleaning up Python interpreter.
+LOADER: executable is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld
+LOADER: homepath is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: _MEIPASS2 is NULL
+LOADER: archivename is /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld
+LOADER: Extracting binaries
+LOADER: Executing self as child
+LOADER: set _MEIPASS2 to /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld
+LOADER: Back to parent
+LOADER: Doing cleanup
+LOADER: Freeing archive status for /Users/Browning/Programs/PyInstaller/sandbox/dist/helloworld/helloworld
